@@ -1,0 +1,21 @@
+{
+  "name": "ideall-git",
+  "version": "1.0.0",
+  "description": "Repositorio para demonstrar o GIT Ideall TechDay",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "techday",
+    "ideall",
+    "taskdo",
+    "git"
+  ],
+  "license": "ISC",
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  }
+}
